@@ -22,6 +22,8 @@ BD_URL -> https://<your_blackduck_url>
 
 BD_API_TOKEN -> API token of the BD user
 
+DETECT_MAJOR_VERSION -> Major Version of Detect that will be used. Defaults to 9
+
 ### Steps:
 
 * Set the above referenced environment variables
